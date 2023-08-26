@@ -1,6 +1,6 @@
 # Introductions
 
-👋 Hey there! I'm Ayah, and I'm absolutely thrilled to have you stop by my GitHub profile!
+👋 Hey there! I'm Ayah, and I'm thrilled to have you stop by my GitHub profile!
 
 🎓 A fresh graduate with a masters in Bioinformatics – that's me! 🧬 Armed with a degree that fuses my love for science and tech, I'm excited to dive into the world of data-driven discovery!
 
